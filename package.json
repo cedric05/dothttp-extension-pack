@@ -1,0 +1,17 @@
+{
+  "name": "dothttp-extension-pack",
+  "displayName": "Dothttp Extension Pack",
+  "description": "Dothttp Extension Pack",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "ShivaPrasanth.dotbook",
+    "ShivaPrasanth.vscode-always-sidebar",
+    "ShivaPrasanth.dothttp-code"
+  ]
+}
